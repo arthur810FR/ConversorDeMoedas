@@ -8,6 +8,9 @@ public class Menu {
 
         while (true) {
             try {
+                System.out.println("======================");
+                System.out.println("======== MENU ========");
+                System.out.println("======================");
                 System.out.println("Escolha uma opção de conversão:");
                 System.out.println("1. USD para ARS (Peso argentino)");
                 System.out.println("2. USD para BOB (Boliviano)");
@@ -37,7 +40,7 @@ public class Menu {
                     case 5 -> moedaEscolhida = "COP";
                     case 6 -> moedaEscolhida = "USD";
                     default -> {
-                        System.out.println("Opção inválida. Tente novamente.");
+                        System.out.println("Opção inválida. Escolha uma opção válida!");
                         opcaoValida = false;
                         continue;
                     }
@@ -49,7 +52,7 @@ public class Menu {
 
                 System.out.println("Digite o valor em USD:");
                 if (!entrada.hasNextDouble()) {
-                    System.out.println("Entrada inválida. Por favor, digite um número com vírgula.");
+                    System.out.println("Entrada inválida. Por favor, digite um número com vírgula ou não digite letras!");
                     entrada.next();
                     continue;
                 }
@@ -58,7 +61,7 @@ public class Menu {
                 double taxa = ServicoDeCambio.obterTaxa(moedaEscolhida);
                 System.out.printf("Valor convertido para %s: %.2f%n", moedaEscolhida, (valor * taxa));
             } catch (InputMismatchException e) {
-                System.out.println("Entrada inválida. Por favor, tente novamente.");
+                System.out.println("Entrada inválida! Por favor, tente novamente!");
                 entrada.next();
             } catch (Exception e) {
                 System.out.println("Erro ao obter a taxa de câmbio: " + e.getMessage());
