@@ -1,14 +1,14 @@
 import java.util.Map;
 
 public class TaxasDeCambio {
-    private String base;
-    private Map<String, Double> taxas;
+    private String base_code;
+    private Map<String, Double> conversion_rates;
 
     public String obterBase() {
-        return base;
+        return base_code;
     }
 
     public Map<String, Double> obterTaxas() {
-        return taxas;
+        return conversion_rates;
     }
 }
