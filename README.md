@@ -15,7 +15,7 @@ O **Conversor de Moedas** é uma aplicação em Java que permite a conversão de
 
 Aqui estão algumas imagens mostrando as funcionalidades do Conversor de Moedas:
 
-![Menu de Conversão](C:\Users\arthu\OneDrive\Pictures\Screenshots\Conversor/Menu.png)
+![Menu de Conversão](C:\Users\arthu\OneDrive\Documentos\Projetos-de-Estudo\ConversorDeMoedas\images\Menu.png)
 *Menu interativo para selecionar a moeda de destino.*
 
 ![Resultado da Conversão](caminho/para/imagem2.png)
