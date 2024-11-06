@@ -15,12 +15,11 @@ O **Conversor de Moedas** é uma aplicação em Java que permite a conversão de
 
 Aqui estão algumas imagens mostrando as funcionalidades do Conversor de Moedas:
 
-![Menu de Conversão](images/Menu.png)
 *Menu interativo para selecionar a moeda de destino.*
+![Menu de Conversão](images/Menu.png)
 
-![Resultado da Conversão](images/ResultadoConversao.png)
 *Exemplo de conversão de USD para BRL (Real Brasileiro).*
-
+![Resultado da Conversão](images/ResultadoConversao.png)
 
 ## 📂 Estrutura do Projeto
 ```plaintext
