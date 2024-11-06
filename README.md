@@ -30,3 +30,11 @@ conversor-de-moedas/
 - **Maven** (para gerenciamento de dependências)
 - **Conexão com a Internet** (para acessar a API de taxas de câmbio)
 
+### Instalação e Execução
+1. **Clone o repositório:**
+   ```bash
+   git clone 
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd desafiosLogicaProgramacao
+3. **Abra o projeto na sua IDE e execute as classes individualmente para ver os resultados dos desafios.**
