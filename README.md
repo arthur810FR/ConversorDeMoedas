@@ -12,3 +12,21 @@ O **Conversor de Moedas** é uma aplicação em Java que permite a conversão de
 - **Interface de Menu Interativo**: O usuário pode selecionar a moeda de destino através de um menu simples.
 
 ## 📂 Estrutura do Projeto
+```plaintext
+conversor-de-moedas/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── TaxasDeCambio.java
+│   │   │   ├── ServicoDeCambio.java
+│   │   │   └── Menu.java
+├── pom.xml
+```
+## 🚀 Como Rodar o Projeto
+
+### Pré-requisitos
+
+- **Java** (JDK 11 ou superior)
+- **Maven** (para gerenciamento de dependências)
+- **Conexão com a Internet** (para acessar a API de taxas de câmbio)
+
