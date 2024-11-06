@@ -18,7 +18,7 @@ Aqui estão algumas imagens mostrando as funcionalidades do Conversor de Moedas:
 ![Menu de Conversão](images/Menu.png)
 *Menu interativo para selecionar a moeda de destino.*
 
-![Resultado da Conversão](caminho/para/imagem2.png)
+![Resultado da Conversão](images/ResultadoConversao)
 *Exemplo de conversão de USD para BRL (Real Brasileiro).*
 
 
