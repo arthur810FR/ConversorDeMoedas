@@ -55,3 +55,9 @@ conversor-de-moedas/
 
 2. **Visualização de Taxas de Câmbio**
    - Acesse o menu e visualize as taxas de câmbio filtradas para as moedas disponíveis.
+
+## 📞 Contato
+**Arthur Francisco Guedes Azevedo**
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-azevedo-desenvolvedor/)
+- [Email](mailto:arthurfranciscoazevedo@gmail.com)
