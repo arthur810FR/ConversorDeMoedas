@@ -33,8 +33,25 @@ conversor-de-moedas/
 ### Instalação e Execução
 1. **Clone o repositório:**
    ```bash
-   git clone 
+   git clone https://github.com/arthur810FR/ConversorDeMoedas.git
 2. **Navegue até o diretório do projeto:**
    ```bash
    cd desafiosLogicaProgramacao
-3. **Abra o projeto na sua IDE e execute as classes individualmente para ver os resultados dos desafios.**
+3. **Abra o projeto na sua IDE e execute as classe Menu para o projeto rodar.**
+
+## 🧰 Tecnologias Utilizadas
+
+- **Java 11+** - Linguagem de programação
+- **Maven** - Gerenciamento de dependências
+- **Gson** - Biblioteca para manipulação de JSON
+- **Exchangerate-API** - API de taxas de câmbio
+
+## 💡 Exemplos de Uso
+
+1. **Conversão de Moeda**
+   - Escolha uma moeda de destino (como BRL para Real Brasileiro).
+   - Digite o valor em USD que deseja converter.
+   - O sistema exibirá o valor convertido na moeda selecionada.
+
+2. **Visualização de Taxas de Câmbio**
+   - Acesse o menu e visualize as taxas de câmbio filtradas para as moedas disponíveis.
