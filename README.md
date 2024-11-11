@@ -19,7 +19,7 @@ Aqui estão algumas imagens mostrando as funcionalidades do Conversor de Moedas:
 ![Menu de Conversão](images/Menu.png)
 
 *Exemplo de conversão de USD para BRL (Real Brasileiro).*
-![Resultado da Conversão](images/ResultadoConversao.png)
+![Resultado da Conversão](images/Conversao.png)
 
 ## 📂 Estrutura do Projeto
 ```plaintext
