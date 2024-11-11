@@ -11,7 +11,6 @@ public class Menu {
                 System.out.println("======================");
                 System.out.println("======== MENU ========");
                 System.out.println("======================");
-                System.out.println("Escolha uma opção de conversão:");
                 System.out.println("1. USD para ARS (Peso argentino)");
                 System.out.println("2. USD para BOB (Boliviano)");
                 System.out.println("3. USD para BRL (Real brasileiro)");
@@ -19,6 +18,7 @@ public class Menu {
                 System.out.println("5. USD para COP (Peso colombiano)");
                 System.out.println("6. USD para USD (Dólar americano)");
                 System.out.println("7. Sair");
+                System.out.println("Escolha uma opção de conversão:");
 
                 if (!entrada.hasNextInt()) {
                     System.out.println("Entrada inválida. Por favor, digite um número inteiro.");
